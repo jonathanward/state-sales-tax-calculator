@@ -2,7 +2,7 @@
   <h1>:money_with_wings: Java State Sales Tax Calculator :money_with_wings:</h1>
 </div>
 <br>
-A Java program that calculates the state sales tax of prices based on user input. Development highlights include object-oriented programming, use of the command line interface and unit testing (JUnit).
+A Java program that calculates the state sales tax of prices based on user input. Development highlights include object-oriented programming, use of the command line interface, BigDecimal and unit testing (JUnit).
 
 ## Sample Output
 
